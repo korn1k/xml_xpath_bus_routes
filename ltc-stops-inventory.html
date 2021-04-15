@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Stops Inventory</title>
+    <style>
+      body {
+        margin: 0 auto;
+        width: 50%;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Transit Stops in London, Ontario</h1>
+    <h3>Enter a route number and/or street, or leave blank.</h3>
+    <div>
+      Route Number
+      <input placeholder="Router Number" type="text" id="route__number" />
+      Street Name
+      <input placeholder="Street Name" type="text" id="street__name" />
+      <button onclick="FindStops();">Update</button>
+    </div>
+    <div id="general__output"></div>
+  </body>
+
+  <script src="./ltc-stops-inventory.js"></script>
+</html>
