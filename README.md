@@ -1,7 +1,9 @@
 # xml_xpath_bus_routes_2021
 Showing ltc-stops (London) based on the input bus number/street name; the inventory is included in the XML file with proper displaying functions in the XSLT file
 
-URL to view live example: https://korn1k.github.io/xml_xpath_bus_routes_2021/ltc-stops-inventory.html
+TECHNOLOGIES: JavaScript, HTML, CSS, XSLT(xPath, xQuery), XML
+
+URL to view live example: https://korn1k.github.io/xml_xpath_bus_routes_2021/ltc-stops-inventory.html (WEAK MOBILE VIEW)
 
 INSTALLATION ON YOUR LOCAL PC:
 
