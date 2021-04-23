@@ -1,6 +1,6 @@
 # xml_xpath_bus_routes_2021
-(LTC = London, Ontario bus timetable with stops)
-LTC-Stops Timetable is a web application for showing bus stops in London, Ontario, Canada. You can input the bus number/street name, and it'll show you generated table.
+         (LTC = London, Ontario bus timetable with stops)
+[SCHOOL] LTC-Stops Timetable is a web application for showing bus stops in London, Ontario, Canada. You can input the bus number/street name, and it'll show you generated table.
 
 TECHNOLOGIES: JavaScript, HTML, CSS, XSLT(xPath, xQuery), XML
 
